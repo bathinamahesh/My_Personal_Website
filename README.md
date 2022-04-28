@@ -1,3 +1,3 @@
 # My_Personal_Website
 
-![alt text](http://mahipersonal.herokuapp.com/)
+![alt text](https://github.com/bathinamahesh/My_Personal_Website/blob/master/Images/Screenshot%20(337).png)
